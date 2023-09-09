@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Josefin Sans',sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(231, 202, 207);
+}
+h1{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+h5{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+p{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
